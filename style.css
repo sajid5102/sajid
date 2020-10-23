@@ -1,0 +1,430 @@
+/*************************** header section ************************/
+.header-section {
+    padding-bottom: 150px;
+    background: #87509c;
+    overflow: hidden;
+    text-align: center;
+}
+
+.main-menu {
+    padding-top: 50px;
+}
+
+.menu-logo {
+    float: left;
+    width: 10%;
+    color: #fff;
+}
+.menu-logo img{
+    width: 100px;
+    height: auto;
+}
+
+.menu-links {
+    overflow: hidden;
+    width: 88%;
+    margin-top: 15px;
+}
+
+.menu-links ul {
+    float: right;
+}
+
+.menu-links ul li {
+    float: left;
+    overflow: hidden;
+}
+
+.menu-links ul li a {
+    padding: 5px 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    display: inline-block;
+    width: 80px;
+}
+
+.menu-links ul li a:hover {
+    background: #643a79;
+    border-radius: 4px;
+}
+
+.header-section .welcome {
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    margin-top: 100px;
+    font-size: 45px;
+}
+
+.header-section .btn {
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 80px;
+    background: #eb7d4b;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 40px;
+    border-bottom: 4px solid #c86a40;
+}
+
+/******************************Services area***************************/
+.services {
+    padding: 100px 0;
+    overflow: hidden;
+    background: #17c2a4;
+    text-align: center;
+}
+
+.coll {
+    margin-top: 60px;
+}
+
+.services h2 {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+.services h4 {
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+}
+
+.services p {
+    color: #ffffff;
+}
+
+.services hr {
+    width: 8%;
+    color: #14a58c;
+    border-bottom: 4px solid #14a58c;
+}
+
+/**************************** Team section *****************************/
+
+.team {
+    padding: 100px 0;
+    overflow: hidden;
+    text-align: center;
+    background: #e7f1f8;
+}
+
+.team h2 {
+    color: #3c4761;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+.team h4 {
+    text-transform: uppercase;
+    color: #3c4761;
+    font-weight: 600;
+}
+
+.team p {
+    color: #3c4761;
+}
+
+.team hr {
+    width: 8%;
+    color: #c8d9e5;
+    border-bottom: 4px solid #c8d9e5;
+}
+
+.team img {
+    margin-bottom: 40px;
+}
+
+.tp {
+    color: #30bae7;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.s-icons li {
+    display: inline;
+}
+
+.s-icons li a {
+    text-decoration: none;
+    font-size: 35px;
+    color: #bdd1df;
+    margin: 5px;
+}
+
+/****************************** skills section *****************************/
+
+.skills {
+    padding: 100px 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+.skills h2 {
+    color: #3c4761;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+.skills h5 {
+    text-transform: uppercase;
+    color: #3c4761;
+    font-weight: 600;
+	margin-bottom: 50px;
+}
+
+.skills p {
+    display: inline-block;
+    margin-bottom: 90px;
+}
+
+.skills hr {
+    width: 8%;
+    color: #c8d9e5;
+    border-bottom: 4px solid #c8d9e5;
+}
+
+/********************** Portfolio section ************************/
+
+.portfolio {
+    padding: 100px 0;
+    overflow: hidden;
+    text-align: center;
+    background: #ffdd99;
+}
+
+.portfolio h2 {
+    color: #3c4761;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+.portfolio h5 {
+    text-transform: uppercase;
+    color: #3c4761;
+    font-weight: 600;
+    margin-top: 25px;
+}
+
+.portfolio hr {
+    width: 8%;
+    color: #c8d9e5;
+    border-bottom: 4px solid #e5c37f;
+}
+
+.portfolio .btn {
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 80px;
+    background: #17c2a4;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 40px;
+    border-bottom: 4px solid #14a58c;
+}
+
+.tabs {
+    margin: 50px 0;
+}
+
+.tabs ul li {
+    display: inline;
+    margin: 2.5px;
+
+}
+
+.tabs ul li a {
+    padding: 5px 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #3c4761;
+    display: inline-block;
+    background: #ebc985;
+    border-radius: 4px;
+    width: 80px;
+}
+
+.tabs ul li a:hover {
+    background: #fff;
+}
+
+/*************************** Testimonial section **********************/
+
+.testimonial {
+    padding: 100px 0;
+    overflow: hidden;
+    background: #d74680;
+}
+
+.testimonial h2 {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.testimonial h5 {
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+}
+
+.testimonial hr {
+    width: 8%;
+    color: #b73c6d;
+    border-bottom: 4px solid #b73c6d;
+}
+
+.testimonial p {
+    color: #fff;
+    font-style: italic;
+}
+
+.p {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.pf {
+    margin-bottom: 90px;
+    margin-top: 60px;
+}
+.cf{
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.ts {
+    color: #fcd397;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+/*************************** Get-in-touch section **************************/
+
+.in-touch {
+    padding: 105px 0;
+    overflow: hidden;
+    background: #3c5499;
+    text-align: center;
+}
+
+.in-touch form {
+    width: 80%;
+    margin: auto;
+}
+
+.in-touch h2 {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.in-touch hr {
+    width: 8%;
+    color: #273a71;
+    border-bottom: 4px solid #273a71;
+}
+
+.in-touch p {
+    color: #fff;
+    margin-bottom: 70px;
+}
+
+.in-touch input {
+    display: block;
+}
+
+.in-touch input[type=text] {
+    float: left;
+    width: 48%;
+    margin-right: 4%;
+    padding: 15px 20px;
+    border: none;
+    background: #273a71;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.in-touch input[type=email] {
+    overflow: hidden;
+    width: 48%;
+    padding: 15px 20px;
+    border: none;
+    background: #273a71;
+    border-radius: 4px;
+    color: #fff;
+}
+
+textarea {
+    width: 100%;
+    padding: 15px 20px 130px;
+    border: none;
+    background: #273a71;
+    border-radius: 4px;
+    color: #fff;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.in-touch .btn input {
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 80px;
+    background: #30bae7;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+    border: none;
+    border-bottom: 4px solid #299ec5;
+    border-radius: 4px;
+}
+
+/**************************** footer section *************************/
+
+.social {
+    padding: 30px;
+    overflow: hidden;
+    background: #344b8e;
+    text-align: center;
+}
+
+.social ul li {
+    display: inline;
+}
+
+.social ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    margin: 0 25px;
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+

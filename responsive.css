@@ -1,0 +1,30 @@
+@media all and (max-width: 575px) {
+    .menu-links ul li {
+        float: none;
+    }
+
+    .menu-logo {
+        width: 70%;
+        text-align: justify;
+    }
+
+    .menu-links ul {
+        padding: 0;
+        width: 100%;
+        margin: auto;
+    }
+
+    .menu-logo h1 {
+        width: 70%;
+    }
+
+    .menu-links {
+        width: 30%;
+    }
+    .tabs ul li{
+        display: block;
+    }
+    .social ul li {
+        display: block;
+    }
+}
